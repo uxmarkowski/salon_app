@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyB8eH1Ql0Pukf06Vz__hkRjCPm8wYLQ5_o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>260080233386</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>salon.april.test</string>
+	<key>PROJECT_ID</key>
+	<string>salonapp-bfe07</string>
+	<key>STORAGE_BUCKET</key>
+	<string>salonapp-bfe07.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:260080233386:ios:ddb3b3cbb6ec12b23199d3</string>
+</dict>
+</plist>
